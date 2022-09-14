@@ -1,3 +1,3 @@
-def functionA():
+def functionA(number):
 
-    return True
+    return number + number
